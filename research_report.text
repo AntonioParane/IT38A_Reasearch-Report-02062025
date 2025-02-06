@@ -122,3 +122,28 @@ Link: Literature Review
    - Title: "Comparative Analysis of ERP System Implementation Success in Different Industry Sectors"
    - Link: [Comparative Analysis of ERP System Implementation Success in Different Industry Sectors](https://doi.org/10.1177/0264456X22067945)
    - Summary: This study provides a comparative analysis of ERP system implementation success across different industry sectors. It identifies common and unique factors that contribute to the success or failure of these systems, offering valuable insights for practitioners and researchers.
+
+
+*Research Methodology*
+
+This study employs a comparative case study approach to analyze the factors contributing to the success and failure of enterprise system implementations. The research design involves a thorough examination of multiple case studies from various industries, including both successful and failed implementations.
+
+*Data Collection*
+
+Primary data were collected through a combination of interviews, surveys, and documentation reviews from organizations that have implemented enterprise systems. Semi-structured interviews were conducted with key stakeholders, including IT managers, business process owners, and end-users, to gather detailed insights into the implementation process and outcomes. Additionally, surveys were distributed to a broader audience to capture quantitative data on system usage and user satisfaction. Relevant documentation, such as project plans, implementation timelines, and post-implementation reviews, were also analyzed to provide context and depth to the findings.
+
+*Data Analysis*
+
+The collected data were analyzed using both qualitative and quantitative methods. Qualitative data were analyzed through thematic analysis to identify recurring themes and patterns related to successful and failed implementations. Quantitative data were analyzed using descriptive statistics and inferential statistics (e.g., t-tests, ANOVA) to compare the two groups. SPSS software was utilized for statistical analysis, while NVivo was used for managing and coding qualitative data.
+
+*Case Selection*
+
+Cases were selected based on their relevance to the research objectives and the availability of data. A total of ten cases were included in the study, with five representing successful implementations and five representing failed implementations. The cases spanned different industry sectors, including manufacturing, finance, healthcare, and retail, to ensure a diverse perspective.
+
+*Ethical Considerations*
+
+Ethical approval was obtained from the Institutional Review Board (IRB) before data collection began. Informed consent was obtained from all participants, ensuring confidentiality and anonymity of the data. Participants were informed about the purpose of the study and their right to withdraw at any time without penalty.
+
+*Limitations*
+
+The study is limited by the availability of data and the reliance on self-reported measures. Additionally, the generalizability of the findings may be constrained by the specific contexts of the selected cases. Future research should aim to expand the sample size and include more diverse industries and organization sizes.
