@@ -1,1 +1,56 @@
 Research Title: “A Comparative Study Of Successful Vs Unsuccessful Implementations Of Enterprise Systems”
+
+Case study 1: Successful implementation of an Enterprise System (Example: Acme Corporation)
+
+1. Overview Acme Corporation, a growing mid-sized manufacturing company, has adopted a new Enterprise Resource Planning (ERP) system to overcome limitations of multiple legacy systems. These legacy systems strained data sharing, reporting and operational efficacy. The ERP implementation was motivated by the need to:
+• Centralized data: One source of truth for all of your business information.
+• Increase operational efficiency: Ensure department (for example manufacturing, finance and sales) are streamlined in processes.
+• Accelerate decision making: Improve insights through on-demand data and analytics
+• Scale Enable: Allow company growth
+
+2. Implementation Process: Acme implemented using a structured, phased approach:
+• Planning & Preparation: The formation of a cross-functional team, ensuring a detailed project plan, conducting a needs assessment. They also made sure to choose a vendor and ERP solution that best suited their individual requirements.
+• Customization & Configuration: The ERP system was configured according to Acme's unique business processes. This included setting up modules, writing integrations with existing systems, and building custom reports.
+• The existing data were cleansed and migrated to the new system.
+• Training & UAT (User Acceptance Testing): Training was conducted for all users. UAT is a test performed to check the system before go-live and ensure everything is working well.
+• Go-Live & Post-Implementation Support: The system was implemented in phases, starting with a pilot group. Users were supported continuously post go-live, and all issues were resolved quickly.
+
+3. Key Success Factors:
+• Executive Sponsorship: Higher management ownership meant project resources and commitment.
+• Clear Communication: Regularly update stakeholders was kept throughout the implementation process for alignment
+• User involvement: Users were involved in the planning, testing, and training phases which helped secure buy in and validate that the system met their needs.
+• Successful Project Management: A dedicated project manager and team made sure to stay on scope and on budget.
+• Change Management: With a holistic approach to change management to underscore how the new system would impact employees as well as preparing people for use of the new system.
+
+4. Outcomes & Impact:
+• Enhanced Data Visibility: Access to timely accurate and consistent data across the organization.
+• Decreased Efficiency: Optimized processes and automation minimized manual work and boosted productivity.
+• Improved Decision-Making: Improved reporting and analytics led to better insights for strategic decision-making.
+• Improved Customer Engagement: Better fulfillment processes and customer service.
+• Lower costs: Improved operations and resource utilization.
+
+Case Study 2: Failure to Implement Enterprise System (Example: Beta retail)
+
+1. Company Overview: Beta Retail was a struggling chain of retail stores that tried to implement a new ERP system to modernize its operations and cut costs. Here are the main reasons behind the implementation:
+• Outdated POS systems: Replace their point-of-sale systems and connect it with other business functions
+• Optimize inventory: Reduce stock-outs through better control of inventory levels
+• Financial reporting improvement: Produce accurate and speedy financial reports.
+
+2. Implementation Process & Challenges: Beta faced a lot of challenges in the implementation:
+• Insufficient Planning: The project had no defined scope, budget, or timeline. A thorough needs assessment or vendor selection process was absent.
+• People Were Not Part of the Solution: From design to implementation, users weren’t involved leading to resistance and a system that didn’t serve them.
+• Substandard Project Management: The project suffered from subpar management, marked by constant delays, cost overruns, and poor communication.
+• Inadequate training: Users were not properly trained on the new system and made mistakes.
+• Resistance towards Change: Employees resisted the new system as they were afraid of losing their jobs or of an increase in workload.
+
+3. Key Failure Factors:
+• Unrealistic Expectations: The project relied on unrealistic expectations and insufficient knowledge of the complexities that surround ERP implementations.
+• No Executive Sponsorship: There was a lack of top management support for the project.
+• Technical Issues: The selected ERP system suited Beta's business needs poorly and there were plenty of technical problems during its implementation.
+• Poor Communication — Lack of communication between project teams, users, and vendors led to misunderstandings and resulted in delays.
+
+4. Outcomes & Consequences:
+• Project Failure: The ERP implementation was eventually written off and terminated despite the substantial amount of time and money spent.
+• Financial Losses: Beta Retail sustained considerable financial losses as a result of the project.
+• Low Employee Morale and Low Productivity: After the failure of the project, the morale of the employees was low.
+• Reputation Damage: The implementation failure affected Beta Retail in terms of reputation.
